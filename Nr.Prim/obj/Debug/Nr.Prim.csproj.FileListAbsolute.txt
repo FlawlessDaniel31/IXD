@@ -1,0 +1,11 @@
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.csproj.AssemblyReference.cache
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.csproj.SuggestedBindingRedirects.cache
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.Properties.Resources.resources
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.csproj.GenerateResource.cache
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.csproj.CoreCompileInputs.cache
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\bin\Debug\Nr.Prim.exe.config
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\bin\Debug\Nr.Prim.exe
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\bin\Debug\Nr.Prim.pdb
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.exe
+C:\Users\boeru\OneDrive\Desktop\student\IX D\Nr.Prim\obj\Debug\Nr.Prim.pdb
